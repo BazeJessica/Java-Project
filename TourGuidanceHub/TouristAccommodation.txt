@@ -1,0 +1,5 @@
+Tourist Information:
+Choice: 2
+HotelOpttion: 0
+AppartmentOption: 1
+Age: 0
